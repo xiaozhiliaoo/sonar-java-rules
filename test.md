@@ -4,10 +4,6 @@ description: 'https://rules.sonarsource.com/java/tag/tests'
 
 # Test
 
-
-
-## Test
-
 1. 断言应该完整
 2. 测试应该包含断言
 3. JUnit test case应该调用超类方法
