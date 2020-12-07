@@ -5,5 +5,5 @@
 * [Bug](bug.md)
 * [Security Hotspot](security-hotspot.md)
 * [Code Smell](code-smell.md)
-* [test](test.md)
+* [Test](test.md)
 
